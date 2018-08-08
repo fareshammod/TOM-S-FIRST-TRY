@@ -1,0 +1,660 @@
+#EXTM3U
+
+
+#EXTINF:0,*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0,https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0,*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0,https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0,247 THE OFFICE | SD
+http://titiroq.xyz:25461/live/123412341234/123412341234/21015.m3u8
+#EXTINF:0,ALBANIAN TV OF | SD
+http://stream.shqiptv.com:7080/altvusa/index.m3u8
+#EXTINF:0,AMAZING FACTS TV | SD
+http://amazingfacts.live-s.cdn.bitgravity.com/cdn-live/_definst_/amazingfacts/live/feed01/chunklist_w1921345467.m3u8
+#EXTINF:0,AMC | HD
+http://5.189.187.55:8000/live/Fadil/skype/2733.m3u8
+#EXTINF:0,ARY DIGTALI | SD
+http://titiroq.xyz:25461/live/123412341234/123412341234/12771.m3u8
+#EXTINF:0,BETTER HEALTH | SD
+http://uni5rtmp.tulix.tv:1935/betterhealth/betterhealth/playlist.m3u8
+#EXTINF:0,BETTER LIFE | SD
+http://uni5rtmp.tulix.tv:1935/betterlife/betterlife/playlist.m3u8
+#EXTINF:0,BETTER NATURE | SD
+http://uni5rtmp.tulix.tv:1935/betternature/betternature/playlist.m3u8
+#EXTINF:0,CORNERSTONE TV | SD
+http://cdn.media9.truegod.tv/ctvnlive/smil:ctvn.smil/chunklist_w1852678767_b2328000_sleng.m3u8
+#EXTINF:0,CTNI ES | SD
+http://184.164.158.202:1936/48/smil:48.smil/playlist.m3u8
+#EXTINF:0,DESTINATION | SD
+http://titiroq.xyz:25461/live/123412341234/123412341234/7484.m3u8
+#EXTINF:0,DISCOVERY | SD
+http://5.196.92.12:8000/live/test/test/1647.m3u8
+#EXTINF:0,ESPERANZA TV ES | SD
+http://k3.usastreams.com:1935/etvSD/etvSD/playlist.m3u8
+#EXTINF:0,EYE 95 TV | SD
+http://cdn20.liveonlineservices.com/hls/eye95tv.m3u8
+#EXTINF:0,FOX | SD
+http://5.196.92.12:8000/live/test/test/1635.m3u8
+#EXTINF:0,FREEDOM BOAT CLUB | SD
+http://wse1.resortcams.com/live-nDVR/freedomboatclub.stream/playlist.m3u8
+#EXTINF:0,GEB | SD
+http://184.173.203.50:1935/live/smil:geb/chunklist.m3u8
+#EXTINF:0,GOOD LIFE 45 | SD
+http://1-fss29-s0.streamhoster.com/lv_goodlife45f1/_definst_/broadcast1/playlist.m3u8
+#EXTINF:0,HBO | HD
+http://5.189.187.55:8000/live/Fadil/skype/3130.m3u8
+#EXTINF:0,HBO | SD
+http://5.196.92.12:8000/live/test/test/1622.m3u8
+#EXTINF:0,HBO COMEDY | SD
+http://5.196.92.12:8000/live/test/test/1625.m3u8
+#EXTINF:0,HBO SIGNATURE | SD
+http://5.196.92.12:8000/live/test/test/1624.m3u8
+#EXTINF:0,HBO SIGNATURE | SD
+http://54.37.255.204:9977/live/leon/iptv/35255.m3u8
+#EXTINF:0,HGTV | SD
+http://5.196.92.12:8000/live/test/test/1621.m3u8
+#EXTINF:0,HISCHANNEL | SD
+http://www1.hischannel.com/Box-Tv-Live/BoxTvLive.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:0,HISTORY | SD
+http://5.196.92.12:8000/live/test/test/1620.m3u8
+#EXTINF:0,HOUSE OF YAHWEH | SD
+http://198.57.164.156:1935/live/SermonLoop/chunklist_w1535326969.m3u8
+#EXTINF:0,HVCC RO | SD
+http://cdn.credonet.tv:8081/hvcc/smil:livehv.smil/playlist.m3u8
+#EXTINF:0,INVESTIGATION DISCOVERY | SD
+http://5.196.92.12:8000/live/test/test/1619.m3u8
+#EXTINF:0,ION TELEVISION | SD
+http://5.196.92.12:8000/live/test/test/1618.m3u8
+#EXTINF:0,JAYA MAX | SD
+http://titiroq.xyz:25461/live/123412341234/123412341234/11878.m3u8
+#EXTINF:0,JRES TV ES | SD
+http://teleredmcp.com:1935/jrestv/jrestv/chunklist_w1193494329.m3u8
+#EXTINF:0,LIFEVISION TV | SD
+http://uni5rtmp.tulix.tv/lifevision/lifevision.stream/playlist.m3u8
+#EXTINF:0,MIAMI TV | SD
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
+#EXTINF:0,NATIONAL GEOGRAPHIC | SD
+http://5.196.92.12:8000/live/test/test/1615.m3u8
+#EXTINF:0,NBC | SD
+http://5.196.92.12:8000/live/test/test/1612.m3u8
+#EXTINF:0,NETWORK | SD
+http://5.196.92.12:8000/live/test/test/1551.m3u8
+#EXTINF:0,NRB NETWORK | SD
+http://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
+#EXTINF:0,OPRAH WINFREY NETWORK | SD
+http://5.196.92.12:8000/live/test/test/1606.m3u8
+#EXTINF:0,QVC | SD
+http://qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/chunklist_b4192000.m3u8
+#EXTINF:0,QVC 2 | SD
+http://qvclvp2.mmdlive.lldns.net/qvclvp2/1af4a53fda904f6c90a4389c8fe92dc0/chunklist_b4192000.m3u8
+#EXTINF:0,SHOWTIME | SD
+http://5.196.92.12:8000/live/test/test/1599.m3u8
+#EXTINF:0,SKY 1 | SD
+http://5.196.92.12:8000/live/test/test/1598.m3u8
+#EXTINF:0,SKY ACTION | SD
+http://5.196.92.12:8000/live/test/test/1596.m3u8
+#EXTINF:0,SKY ARTS | SD
+http://5.196.92.12:8000/live/test/test/1595.m3u8
+#EXTINF:0,SKY ATLANTIC | SD
+http://5.196.92.12:8000/live/test/test/1594.m3u8
+#EXTINF:0,SKY CHRISTMAS | SD
+http://5.196.92.12:8000/live/test/test/1593.m3u8
+#EXTINF:0,SKY COMEDY | SD
+http://5.196.92.12:8000/live/test/test/1592.m3u8
+#EXTINF:0,SKY HORROR | SD
+http://5.196.92.12:8000/live/test/test/1589.m3u8
+#EXTINF:0,SKY LIVING | SD
+http://5.196.92.12:8000/live/test/test/1588.m3u8
+#EXTINF:0,SKY MODERN GREATS | SD
+http://5.196.92.12:8000/live/test/test/1587.m3u8
+#EXTINF:0,SKY PREMIERE | SD
+http://5.196.92.12:8000/live/test/test/1585.m3u8
+#EXTINF:0,SKY SELECT | SD
+http://5.196.92.12:8000/live/test/test/1584.m3u8
+#EXTINF:0,SKY THRILLER | SD
+http://5.196.92.12:8000/live/test/test/1576.m3u8
+#EXTINF:0,SMILE TV | SD
+http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8
+#EXTINF:0,SPIKE | SD
+http://5.196.92.12:8000/live/test/test/1575.m3u8
+#EXTINF:0,SPIRIT TELEVISION | SD
+http://cdn-live-egress.rbmtv.com/rightbrainmedia-live-109/mp4:spirit_all/playlist.m3u8
+#EXTINF:0,STARZ | SD
+http://5.196.92.12:8000/live/test/test/1567.m3u8
+#EXTINF:0,SUN TV | SD
+http://titiroq.xyz:25461/live/123412341234/123412341234/11848.m3u8
+#EXTINF:0,SUPER CHANNEL | SD
+http://cdn-live-egress.rbmtv.com/rightbrainmedia-live-128/mp4:wacx/playlist.m3u8
+#EXTINF:0,SYFY | SD
+http://5.196.92.12:8000/live/test/test/1566.m3u8
+#EXTINF:0,TBS | SD
+http://5.196.92.12:8000/live/test/test/1565.m3u8
+#EXTINF:0,TCM | SD
+http://5.196.92.12:8000/live/test/test/1564.m3u8
+#EXTINF:0,TELEVISION ESNE | SD
+http://198.154.228.82:1935/esne-live/smil:esnetv.smil/chunklist_w431608397_b1298000_sleng.m3u8
+#EXTINF:0,TG4 | SD
+http://5.196.92.12:8000/live/test/test/1562.m3u8
+#EXTINF:0,TLC | SD
+http://5.196.92.12:8000/live/test/test/1561.m3u8
+#EXTINF:0,TNT | SD
+http://5.196.92.12:8000/live/test/test/1560.m3u8
+#EXTINF:0,TSN 1 | SD
+http://5.196.92.12:8000/live/test/test/1558.m3u8
+#EXTINF:0,TSN 2 | SD
+http://5.196.92.12:8000/live/test/test/1557.m3u8
+#EXTINF:0,TSN 3 | SD
+http://5.196.92.12:8000/live/test/test/1556.m3u8
+#EXTINF:0,TSN 4 | SD
+http://5.196.92.12:8000/live/test/test/1555.m3u8
+#EXTINF:0,TSN 5 | SD
+http://5.196.92.12:8000/live/test/test/1554.m3u8
+#EXTINF:0,UK@ 5 | SD
+http://izgemma.ddns.net:8000/live/chief/chief/37156.m3u8
+#EXTINF:0,UK@ 5 | SD
+http://izgemma.ddns.net:8000/live/shaun/shaun/37156.m3u8
+#EXTINF:0,UNIVERSAL CHANNEL | SD
+http://5.196.92.12:8000/live/test/test/1553.m3u8
+#EXTINF:0,UNIVISION DEPORTES | SD
+http://5.196.92.12:8000/live/test/test/1552.m3u8
+#EXTINF:0,VICTORY TELEVISION NETWORK | SD
+http://184.173.179.163:1935/victorytelevisionnetwork/victorytelevisionnetwork/playlist.m3u8
+#EXTINF:0,VIDA MEJOR | SD
+http://uni5rtmp.tulix.tv:1935/bettervida/bettervida/playlist.m3u8
+#EXTINF:0,VISION CELESTIAL ES | SD
+http://streaming.omeganet.org:1935/vc/envivo/chunklist_w1068747420.m3u8
+#EXTINF:0,VOICE OF | SD
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+#EXTINF:0,WGGS-TV | SD
+https://d202lge9i6ts6.cloudfront.net/origin1ingest1/c7956aac88/chunklist.m3u8
+#EXTINF:0,WWE | HD
+http://5.189.187.55:8000/live/Fadil/skype/3128.m3u8
+#EXTINF:0,WWE NETWORK | SD
+http://5.196.92.12:8000/live/test/test/1547.m3u8
+#EXTINF:0,WWE NETWORK | SD
+http://tvrocket.co:8000/live/@mirko@fe.li.ci.o.@li/..ma@@gg.io@@/36128.m3u8
+#EXTM3U
+
+
+#EXTINF:0,*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0,https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0,*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0,https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0,CINEMAX | SD
+http://5.196.92.12:8000/live/test/test/1652.m3u8
+#EXTM3U
+
+#EXTINF:0,*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0,https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0,*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0,https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0,ADULT | SD
+http://tvrocket.co:8000/live/@mirko@fe.li.ci.o.@li/..ma@@gg.io@@/34926.m3u8
+#EXTINF:0,ADULT | SD
+http://tvrocket.co:8000/live/@mirko@fe.li.ci.o.@li/..ma@@gg.io@@/34927.m3u8
+#EXTINF:0,ADULT | SD
+http://tvrocket.co:8000/live/@mirko@fe.li.ci.o.@li/..ma@@gg.io@@/34931.m3u8
+#EXTINF:0,ADULT | SD
+http://tvrocket.co:8000/live/@mirko@fe.li.ci.o.@li/..ma@@gg.io@@/34941.m3u8
+#EXTINF:0,ADULT | SD
+http://tvrocket.co:8000/live/@mirko@fe.li.ci.o.@li/..ma@@gg.io@@/34943.m3u8
+#EXTINF:0,ADULT | SD
+http://tvrocket.co:8000/live/@mirko@fe.li.ci.o.@li/..ma@@gg.io@@/34944.m3u8
+#EXTINF:0,ADULT | SD
+http://tvrocket.co:8000/live/@mirko@fe.li.ci.o.@li/..ma@@gg.io@@/34945.m3u8
+#EXTINF:0,ADULT | SD
+http://tvrocket.co:8000/live/@mirko@fe.li.ci.o.@li/..ma@@gg.io@@/34948.m3u8
+#EXTINF:0,ADULT | SD
+http://tvrocket.co:8000/live/@mirko@fe.li.ci.o.@li/..ma@@gg.io@@/34960.m3u8
+#EXTINF:0,ADULT | SD
+http://tvrocket.co:8000/live/@mirko@fe.li.ci.o.@li/..ma@@gg.io@@/35006.m3u8
+#EXTINF:0,ADULT 3 | SD
+http://5.189.187.55:8000/live/Fadil/skype/1461.m3u8
+#EXTINF:0,ADULT 4 | SD
+http://5.189.187.55:8000/live/Fadil/skype/1460.m3u8
+#EXTINF:0,ADULT 5 | SD
+http://5.189.187.55:8000/live/Fadil/skype/1459.m3u8
+#EXTINF:0,ADULT 8 | SD
+http://5.189.187.55:8000/live/Fadil/skype/1999.m3u8
+#EXTINF:0,ADULT 9 | SD
+http://fulliptvnki.me:80/live/UFd8ECXkFH/TAx7JQhxWf/29268.m3u8
+#EXTINF:0,ADULT SWIM ANIMATION | SD
+https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream.m3u8
+#EXTINF:0,BABESTATION | SD
+http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
+#EXTINF:0,BLUE HUSTLER | SD
+http://85.132.71.6/ru/blue/index.m3u8
+#EXTINF:0,BLUE HUSTLER | SD
+http://tv.factoryiptv.com:80/live/zera/zera/40180.m3u8
+#EXTINF:0,BRAZZERS EUROPE TV | SD
+http://85.132.71.6/ru/braz/index.m3u8
+#EXTINF:0,BRAZZERS EUROPE TV | SD
+http://81.200.50.4/hls/Brazzers_nejtv_portable_low.m3u8
+#EXTINF:0,CANALPLAY LIVE XXX | SD
+http://fulliptvnki.ddns.net:80/live/UFd8ECXkFH/TAx7JQhxWf/26803.m3u8
+#EXTINF:0,EROTIC | SD
+http://212.8.250.12:25461/live/Daniel/1234/20927.m3u8
+#EXTINF:0,EROTIC 4 | SD
+http://212.8.250.12:25461/live/Daniel/1234/20921.m3u8
+#EXTINF:0,EROTIC 8 | SD
+http://212.8.250.12:25461/live/Daniel/1234/20917.m3u8
+#EXTINF:0,EROX TV | HD
+http://81.200.50.4/hls/Erox_nejtv_portable_low.m3u8
+#EXTINF:0,EROXX TV | HD
+http://81.200.50.4/hls/Eroxx_nejtv_portable_low.m3u8
+#EXTINF:0,EROXX TV | HD
+http://tv.factoryiptv.com:80/live/zera/zera/40322.m3u8
+#EXTINF:0,EX YU | SD
+http://5.189.187.55:8000/live/Fadil/skype/790.m3u8
+#EXTINF:0,EX YU | SD
+http://5.189.187.55:8000/live/Fadil/skype/791.m3u8
+#EXTINF:0,EX YU | SD
+http://5.189.187.55:8000/live/Fadil/skype/792.m3u8
+#EXTINF:0,EX YU | SD
+http://5.189.187.55:8000/live/Fadil/skype/793.m3u8
+#EXTINF:0,FREEDAILYIPTV COM | SD
+http://212.8.250.12:25461/live/Daniel/1234/20925.m3u8
+#EXTINF:0,HUSTLER TV | SD
+http://81.200.50.4/hls/Hustler_nejtv_portable_low.m3u8
+#EXTINF:0,JASMIN CHANNEL | HD
+http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
+#EXTINF:0,JASMIN TV | SD
+http://tv.factoryiptv.com:80/live/zera/zera/40305.m3u8
+#EXTINF:0,JASMIN TV | SD
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+#EXTINF:0,JASMIN TV 18 | SD
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+#EXTINF:0,LA SEXTA | HD
+http://5.189.187.55:8000/live/Fadil/skype/1670.m3u8
+#EXTINF:0,LA SEXTA | HD
+http://54.37.255.204:9977/live/leon/iptv/28836.m3u8
+#EXTINF:0,LA SEXTA | HD
+http://regnummi.mibox.live:980/live/Jesus/Jesus/5110.m3u8
+#EXTINF:0,LA SEXTA | SD
+http://5.189.187.55:8000/live/Fadil/skype/2620.m3u8
+#EXTINF:0,LA SEXTA | SD
+http://54.37.255.204:9977/live/leon/iptv/28837.m3u8
+#EXTINF:0,LA SEXTA ES | HD
+http://5.196.92.12:8000/live/test/test/943.m3u8
+#EXTINF:0,MIAMI TV 18 | SD
+http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitv/playlist.m3u8
+#EXTINF:0,MIAMI TV MEXICO | SD
+http://mexicoserver.miamitvchannel.com/miamitv/smil:miamitvmexico/playlist.m3u8
+#EXTINF:0,MIAMI TV USA | SD
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
+#EXTINF:0,PASSIE | SD
+http://212.8.250.12:25461/live/Daniel/1234/20928.m3u8
+#EXTINF:0,PLAYBOY | SD
+http://tv.factoryiptv.com:80/live/zera/zera/37061.m3u8
+#EXTINF:0,PLAYBOY TV BR | SD
+http://5.196.92.12:8000/live/test/test/799.m3u8
+#EXTINF:0,PLAYBOY TV DE | SD
+http://5.196.92.12:8000/live/test/test/1028.m3u8
+#EXTINF:0,SEXTREME | SD
+http://tv.factoryiptv.com:80/live/zera/zera/37047.m3u8
+#EXTINF:0,SEXTREME BR | SD
+http://5.196.92.12:8000/live/test/test/788.m3u8
+#EXTINF:0,SEXY HOT | SD
+http://212.8.250.12:25461/live/Daniel/1234/190.m3u8
+#EXTINF:0,SEXY HOT | SD
+http://tv.factoryiptv.com:80/live/zera/zera/37009.m3u8
+#EXTINF:0,SEXY HOT BR | SD
+http://5.196.92.12:8000/live/test/test/393.m3u8
+#EXTINF:0,STUDIO 66 | SD
+http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel12/playlist.m3u8
+#EXTINF:0,STUDIO 66 | SD
+http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel31/playlist.m3u8
+#EXTINF:0,STUDIO 66 | SD
+http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel33/playlist.m3u8
+#EXTINF:0,STUDIO 66 | SD
+http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel41/playlist.m3u8
+#EXTINF:0,STUDIO 66 TV 18 | SD
+http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel11/playlist.m3u8
+#EXTINF:0,STUDIO 66 TV 2 18 | SD
+http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel21/playlist.m3u8
+#EXTINF:0,STUDIO66 TV | SD
+http://tv.factoryiptv.com:80/live/zera/zera/40368.m3u8
+#EXTINF:0,VISIT-X | HD
+http://tv.factoryiptv.com:80/live/zera/zera/40151.m3u8
+#EXTINF:0,VISIT-X TV | SD
+http://stream.visit-x.tv/vxtv/live/playlist.m3u8
+#EXTINF:0,VISIT-X TV 18 | SD
+http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
+#EXTINF:0,XXX | HD
+http://izgemma.ddns.net:8000/live/chief/chief/199.m3u8
+#EXTINF:0,XXX | HD
+http://izgemma.ddns.net:8000/live/chief/chief/200.m3u8
+#EXTINF:0,XXX | HD
+http://izgemma.ddns.net:8000/live/shaun/shaun/199.m3u8
+#EXTINF:0,XXX | HD
+http://izgemma.ddns.net:8000/live/shaun/shaun/200.m3u8
+#EXTINF:0,XXX | HD
+http://tvrocket.co:8000/live/@mirko@fe.li.ci.o.@li/..ma@@gg.io@@/34928.m3u8
+#EXTINF:0,XXX | HD
+http://tvrocket.co:8000/live/@mirko@fe.li.ci.o.@li/..ma@@gg.io@@/34956.m3u8
+#EXTINF:0,XXX | SD
+http://5.135.92.130:58143/out/u/103_1.m3u8
+#EXTINF:0,XXX | SD
+http://5.135.92.130:58143/out/u/105_1.m3u8
+#EXTINF:0,XXX | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/35837.m3u8
+#EXTINF:0,XXX | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/35841.m3u8
+#EXTINF:0,XXX | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/35842.m3u8
+#EXTINF:0,XXX | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/35843.m3u8
+#EXTINF:0,XXX | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/35846.m3u8
+#EXTINF:0,XXX | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/35848.m3u8
+#EXTINF:0,XXX | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/35854.m3u8
+#EXTINF:0,XXX | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/35856.m3u8
+#EXTINF:0,XXX | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/35859.m3u8
+#EXTINF:0,XXX | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/35863.m3u8
+#EXTINF:0,XXX | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/35866.m3u8
+#EXTINF:0,XXX | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/35875.m3u8
+#EXTINF:0,XXX | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/35884.m3u8
+#EXTINF:0,XXX | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/35887.m3u8
+#EXTINF:0,XXX | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/35893.m3u8
+#EXTINF:0,XXX | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/35895.m3u8
+#EXTINF:0,XXX | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/35896.m3u8
+#EXTINF:0,XXX | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/35899.m3u8
+#EXTINF:0,XXX | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/35901.m3u8
+#EXTINF:0,XXX | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/35904.m3u8
+#EXTINF:0,XXX | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/35905.m3u8
+#EXTINF:0,XXX | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/35910.m3u8
+#EXTINF:0,XXX | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/35914.m3u8
+#EXTINF:0,XXX | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/35915.m3u8
+#EXTINF:0,XXX | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/35917.m3u8
+#EXTINF:0,XXX | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/35918.m3u8
+#EXTINF:0,XXX | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/35921.m3u8
+#EXTINF:0,XXX | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/35923.m3u8
+#EXTINF:0,XXX | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/35927.m3u8
+#EXTINF:0,XXX | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/35932.m3u8
+#EXTINF:0,XXX | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/35934.m3u8
+#EXTINF:0,XXX | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/35943.m3u8
+#EXTINF:0,XXX | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/35949.m3u8
+#EXTINF:0,XXX | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/35950.m3u8
+#EXTINF:0,XXX | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/35951.m3u8
+#EXTINF:0,XXX | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/35952.m3u8
+#EXTINF:0,XXX | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/35953.m3u8
+#EXTINF:0,XXX | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/35954.m3u8
+#EXTINF:0,XXX | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/35955.m3u8
+#EXTINF:0,XXX | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/35957.m3u8
+#EXTINF:0,XXX | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/35961.m3u8
+#EXTINF:0,XXX | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/35964.m3u8
+#EXTINF:0,XXX | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/35965.m3u8
+#EXTINF:0,XXX | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/35966.m3u8
+#EXTINF:0,XXX | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/35967.m3u8
+#EXTINF:0,XXX | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/35971.m3u8
+#EXTINF:0,XXX | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/35974.m3u8
+#EXTINF:0,XXX | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/35975.m3u8
+#EXTINF:0,XXX | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/35979.m3u8
+#EXTINF:0,XXX | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/35980.m3u8
+#EXTINF:0,XXX | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/35985.m3u8
+#EXTINF:0,XXX | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/35986.m3u8
+#EXTINF:0,XXX | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/35987.m3u8
+#EXTINF:0,XXX | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/35988.m3u8
+#EXTINF:0,XXX | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/35989.m3u8
+#EXTINF:0,XXX | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/35999.m3u8
+#EXTINF:0,XXX | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/36001.m3u8
+#EXTINF:0,XXX | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/36010.m3u8
+#EXTINF:0,XXX | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/36018.m3u8
+#EXTINF:0,XXX | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/36019.m3u8
+#EXTINF:0,XXX | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/36027.m3u8
+#EXTINF:0,XXX | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/36030.m3u8
+#EXTINF:0,XXX | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/36035.m3u8
+#EXTINF:0,XXX | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/36039.m3u8
+#EXTINF:0,XXX | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/36046.m3u8
+#EXTINF:0,XXX | SD
+http://195.230.115.18:65080/play/a8100/index.m3u8
+#EXTINF:0,XXX | SD
+http://izgemma.ddns.net:8000/live/chief/chief/13451.m3u8
+#EXTINF:0,XXX | SD
+http://izgemma.ddns.net:8000/live/chief/chief/13453.m3u8
+#EXTINF:0,XXX | SD
+http://izgemma.ddns.net:8000/live/chief/chief/13454.m3u8
+#EXTINF:0,XXX | SD
+http://izgemma.ddns.net:8000/live/chief/chief/13455.m3u8
+#EXTINF:0,XXX | SD
+http://izgemma.ddns.net:8000/live/shaun/shaun/13448.m3u8
+#EXTINF:0,XXX | SD
+http://izgemma.ddns.net:8000/live/shaun/shaun/13451.m3u8
+#EXTINF:0,XXX | SD
+http://izgemma.ddns.net:8000/live/shaun/shaun/13453.m3u8
+#EXTINF:0,XXX | SD
+http://izgemma.ddns.net:8000/live/shaun/shaun/13454.m3u8
+#EXTINF:0,XXX | SD
+http://izgemma.ddns.net:8000/live/shaun/shaun/13455.m3u8
+#EXTINF:0,XXX | SD
+http://tvrocket.co:8000/live/@mirko@fe.li.ci.o.@li/..ma@@gg.io@@/34930.m3u8
+#EXTINF:0,XXX | SD
+http://tvrocket.co:8000/live/@mirko@fe.li.ci.o.@li/..ma@@gg.io@@/34942.m3u8
+#EXTINF:0,XXX | SD
+http://tvrocket.co:8000/live/@mirko@fe.li.ci.o.@li/..ma@@gg.io@@/34951.m3u8
+#EXTINF:0,XXX | SD
+http://tvrocket.co:8000/live/@mirko@fe.li.ci.o.@li/..ma@@gg.io@@/34952.m3u8
+#EXTINF:0,XXX | SD
+http://tvrocket.co:8000/live/@mirko@fe.li.ci.o.@li/..ma@@gg.io@@/34954.m3u8
+#EXTINF:0,XXX | SD
+http://tvrocket.co:8000/live/@mirko@fe.li.ci.o.@li/..ma@@gg.io@@/34955.m3u8
+#EXTINF:0,XXX | SD
+http://tvrocket.co:8000/live/@mirko@fe.li.ci.o.@li/..ma@@gg.io@@/34957.m3u8
+#EXTINF:0,XXX | SD
+http://tvrocket.co:8000/live/@mirko@fe.li.ci.o.@li/..ma@@gg.io@@/34958.m3u8
+#EXTINF:0,XXX | SD
+http://tvrocket.co:8000/live/@mirko@fe.li.ci.o.@li/..ma@@gg.io@@/34961.m3u8
+#EXTINF:0,XXX | SD
+http://tvrocket.co:8000/live/@mirko@fe.li.ci.o.@li/..ma@@gg.io@@/34962.m3u8
+#EXTINF:0,XXX | SD
+http://tvrocket.co:8000/live/@mirko@fe.li.ci.o.@li/..ma@@gg.io@@/34972.m3u8
+#EXTINF:0,XXX | SD
+http://tvrocket.co:8000/live/@mirko@fe.li.ci.o.@li/..ma@@gg.io@@/34973.m3u8
+#EXTINF:0,XXX | SD
+http://tvrocket.co:8000/live/@mirko@fe.li.ci.o.@li/..ma@@gg.io@@/34974.m3u8
+#EXTINF:0,XXX | SD
+http://tvrocket.co:8000/live/@mirko@fe.li.ci.o.@li/..ma@@gg.io@@/34981.m3u8
+#EXTINF:0,XXX | SD
+http://tvrocket.co:8000/live/@mirko@fe.li.ci.o.@li/..ma@@gg.io@@/34982.m3u8
+#EXTINF:0,XXX | SD
+http://tvrocket.co:8000/live/@mirko@fe.li.ci.o.@li/..ma@@gg.io@@/34983.m3u8
+#EXTINF:0,XXX 1 | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/35475.m3u8
+#EXTINF:0,XXX 1 | SD
+http://54.37.255.204:9977/live/leon/iptv/35475.m3u8
+#EXTINF:0,XXX 10 | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/35466.m3u8
+#EXTINF:0,XXX 2 | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/35474.m3u8
+#EXTINF:0,XXX 2 | SD
+http://54.37.255.204:9977/live/leon/iptv/35474.m3u8
+#EXTINF:0,XXX 3 | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/35473.m3u8
+#EXTINF:0,XXX 3 | SD
+http://54.37.255.204:9977/live/leon/iptv/35473.m3u8
+#EXTINF:0,XXX 4 | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/35472.m3u8
+#EXTINF:0,XXX 4 | SD
+http://54.37.255.204:9977/live/leon/iptv/35472.m3u8
+#EXTINF:0,XXX 5 | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/35471.m3u8
+#EXTINF:0,XXX 5 | SD
+http://54.37.255.204:9977/live/leon/iptv/35471.m3u8
+#EXTINF:0,XXX 6 | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/35470.m3u8
+#EXTINF:0,XXX 6 | SD
+http://54.37.255.204:9977/live/leon/iptv/35470.m3u8
+#EXTINF:0,XXX 7 | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/35469.m3u8
+#EXTINF:0,XXX 7 | SD
+http://54.37.255.204:9977/live/leon/iptv/35469.m3u8
+#EXTINF:0,XXX 8 | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/35468.m3u8
+#EXTINF:0,XXX 8 | SD
+http://54.37.255.204:9977/live/leon/iptv/35468.m3u8
+#EXTINF:0,XXX 9 | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/35467.m3u8
+#EXTINF:0,XXX 9 | SD
+http://54.37.255.204:9977/live/leon/iptv/35467.m3u8
+#EXTINF:0,XXX BLACKED | HD
+http://iptvtool.es:9977/live/jf/iptv/35479.m3u8
+#EXTINF:0,XXX BLACKED | HD
+http://iptvtool.es:9977/live/CAMI/CAMI/35479.m3u8
+#EXTINF:0,XXX BLACKED | HD
+http://54.37.255.204:9977/live/leon/iptv/35479.m3u8
+#EXTINF:0,XXX BRAZZERS | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/35478.m3u8
+#EXTINF:0,XXX BRAZZERS | SD
+http://54.37.255.204:9977/live/leon/iptv/35478.m3u8
+#EXTINF:0,XXX CENTOXCENTO TV | SD
+http://195.230.115.18:65080/play/a8104/index.m3u8
+#EXTINF:0,XXX DORCEL | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/35481.m3u8
+#EXTINF:0,XXX DUSK TV | SD
+http://195.230.115.18:65080/play/a8101/index.m3u8
+#EXTINF:0,XXX ELIT ADULT 10 | SD
+http://54.37.255.204:9977/live/leon/iptv/35456.m3u8
+#EXTINF:0,XXX ELIT ADULT 6 | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/35460.m3u8
+#EXTINF:0,XXX ELIT ADULT 6 | SD
+http://54.37.255.204:9977/live/leon/iptv/35460.m3u8
+#EXTINF:0,XXX ELIT ADULT 7 | SD
+http://54.37.255.204:9977/live/leon/iptv/35459.m3u8
+#EXTINF:0,XXX ELIT ADULT 8 | SD
+http://54.37.255.204:9977/live/leon/iptv/35458.m3u8
+#EXTINF:0,XXX ELIT ADULT 9 | SD
+http://54.37.255.204:9977/live/leon/iptv/35457.m3u8
+#EXTINF:0,XXX HOT CLUB 1 | HD
+http://54.37.255.204:9977/live/leon/iptv/35455.m3u8
+#EXTINF:0,XXX HOT CLUB 10 | HD
+http://54.37.255.204:9977/live/leon/iptv/35446.m3u8
+#EXTINF:0,XXX HOT CLUB 2 | HD
+http://54.37.255.204:9977/live/leon/iptv/35453.m3u8
+#EXTINF:0,XXX HOT CLUB 3 | HD
+http://54.37.255.204:9977/live/leon/iptv/35454.m3u8
+#EXTINF:0,XXX HOT CLUB 4 | HD
+http://54.37.255.204:9977/live/leon/iptv/35452.m3u8
+#EXTINF:0,XXX HOT CLUB 5 | HD
+http://54.37.255.204:9977/live/leon/iptv/35451.m3u8
+#EXTINF:0,XXX HOT CLUB 6 | HD
+http://54.37.255.204:9977/live/leon/iptv/35450.m3u8
+#EXTINF:0,XXX HOT CLUB 7 | HD
+http://54.37.255.204:9977/live/leon/iptv/35449.m3u8
+#EXTINF:0,XXX HOT CLUB 8 | HD
+http://54.37.255.204:9977/live/leon/iptv/35448.m3u8
+#EXTINF:0,XXX HOT CLUB 9 | HD
+http://54.37.255.204:9977/live/leon/iptv/35447.m3u8
+#EXTINF:0,XXX HUSTLER | HD
+http://iptvtool.es:9977/live/jf/iptv/35485.m3u8
+#EXTINF:0,XXX HUSTLER | HD
+http://iptvtool.es:9977/live/CAMI/CAMI/35485.m3u8
+#EXTINF:0,XXX HUSTLER | HD
+http://54.37.255.204:9977/live/leon/iptv/35485.m3u8
+#EXTINF:0,XXX LIVECHANNEL | SD
+http://195.230.115.18:65080/play/a8106/index.m3u8
+#EXTINF:0,XXX MOMS TEACH | SD
+http://iptvtool.es:9977/live/jf/iptv/35476.m3u8
+#EXTINF:0,XXX MOMS TEACH | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/35476.m3u8
+#EXTINF:0,XXX MOMS TEACH | SD
+http://54.37.255.204:9977/live/leon/iptv/35476.m3u8
+#EXTINF:0,XXX PASSIONXXX | SD
+http://195.230.115.18:65080/play/a8105/index.m3u8
+#EXTINF:0,XXX PENTHOUSE 1 | HD
+http://iptvtool.es:9977/live/jf/iptv/35483.m3u8
+#EXTINF:0,XXX PENTHOUSE 1 | HD
+http://54.37.255.204:9977/live/leon/iptv/35483.m3u8
+#EXTINF:0,XXX PENTHOUSE 2 | HD
+http://iptvtool.es:9977/live/jf/iptv/35482.m3u8
+#EXTINF:0,XXX PENTHOUSE 2 | HD
+http://iptvtool.es:9977/live/CAMI/CAMI/35482.m3u8
+#EXTINF:0,XXX PENTHOUSE 2 | HD
+http://54.37.255.204:9977/live/leon/iptv/35482.m3u8
+#EXTINF:0,XXX PINK O TV | SD
+http://195.230.115.18:65080/play/a8107/index.m3u8
+#EXTINF:0,XXX PRIVATE | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/35480.m3u8
+#EXTINF:0,XXX PRIVATE | SD
+http://54.37.255.204:9977/live/leon/iptv/35480.m3u8
+#EXTINF:0,XXX RED LIGHT | HD
+http://iptvtool.es:9977/live/CAMI/CAMI/35484.m3u8
+#EXTINF:0,XXX RED LIGHT | HD
+http://54.37.255.204:9977/live/leon/iptv/35484.m3u8
+#EXTINF:0,XXX SCT | SD
+http://195.230.115.18:65080/play/a8102/index.m3u8
+#EXTINF:0,XXX VIVID XXX | SD
+http://iptvtool.es:9977/live/CAMI/CAMI/35477.m3u8
+#EXTINF:0,XXX VIVID XXX | SD
+http://54.37.255.204:9977/live/leon/iptv/35477.m3u8
